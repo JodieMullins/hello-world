@@ -1,2 +1,5 @@
 # hello-world
-Code:You pre-work exercise
+
+This repository has been created as part of a Code:You pre-work exercise. 
+
+
